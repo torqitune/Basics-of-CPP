@@ -1,3 +1,4 @@
+//NOTE: this code is working fine on online compiler , but in vs code , it sucks :(
 #include<iostream>
 #include<math.h>
 using namespace std;
